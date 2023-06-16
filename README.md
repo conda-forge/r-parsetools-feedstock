@@ -1,11 +1,11 @@
-About r-parsetools
-==================
+About r-parsetools-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-parsetools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RDocTaskForce/parsetools
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-parsetools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools and utilities for dealing with parse data. Parse data represents the parse tree as data with location and type information.  This package provides functions for navigating the parse tree as a data frame.
 
